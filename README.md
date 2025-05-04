@@ -1,16 +1,16 @@
-## Hi there 👋
+Thanks for checking out my page! Mostly cybersecurity notes and projects I do sometimes.         
+Here's a cool ascii art tag I made:
 
-<!--
-**codingmeowster/codingmeowster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ____               __                                                        
+ /\  _`\            /\ \__            /'\_/`\                 ,O,            
+ \ \ \L\ \   __  __ \ \ ,_\     __   /\      \      __       ,OOO,      __  __  __  
+  \ \  _ <' /\ \/\ \ \ \ \/   /'__`\ \ \ \__\ \   /'__`\ 'OOOOOOOOOOO' /\ \/\ \/\ \              
+   \ \ \L\ \\ \ \_\ \ \ \ \_ /\  __/  \ \ \_/\ \ /\  __/   `OOOOOOO`   \ \ \_/ \_/ \
+    \ \____/ \/`____ \ \ \__\\ \____\  \ \_\\ \_\\ \____\  'OOO'OOO'    \ \___x___/'         
+     \/___/   `/___/> \ \/__/ \/____/   \/_/ \/_/ \/____/ 'OO     OO'     \/__//__/         
+                /\___/                                          
+                \/__/                                      
+       |\      _,,,---,,_
+ZZZzz /,`.-'`'    -.  ;-;;,_
+     |,4-  ) )-,_. ,\ (  `'-'
+    '---''(_/--'  `-'\_)  Wake Up, Neo... Follow the white cat. ~
