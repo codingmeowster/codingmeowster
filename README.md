@@ -7,18 +7,19 @@ I’m currently adding CTF writeups and security challenges. I’ve been working
 
 What I do now:
 
-- **IT & Security Support**
+- **IT Support**
 
-Troubleshooting hardware, software, and network issues. Providing support for cloud services such as Azure and Office 365 while ensuring user assistance and system protection.
+Troubleshooting hardware, software, and network issues. Providing support for Azure and Office 365. Configuring and deploying network devices, maintaining IT documentation, and enforcing security policies.
 
-- **InfoSec/Incident Response Team**
+- **InfoSec/Incident Response**
 
-Working with EDR solutions and contributing to an email security project. Familiar with tools like AppRiver, Mimecast, and Defender in Office 365.
+Familiar with Endpoint Detection and Response (EDR) solutions and contributing to an email security project. Experienced in using email security and filtering tools to analyze phishing threats and implement strategies to mitigate email-based attacks. Proficient in Antivirus and application control solutions to protect endpoints from security threats.
 
-- **Hands-On Learning**
+- **Hands-On Learning & Tinkering**
 
-Experimenting with VMs, restoring old tech, modding devices, and creating real-world scenarios in my home lab.
+Experimenting with virtual machines, restoring vintage tech, modding devices, building custom keyboards, tinkering with my 3D printer, and creating real-world scenarios in my home lab—this.
 
 - **CTFs (Capture The Flags)**
 
-Regularly active on platforms like TryHackMe, HackTheBox, and CyberDefender. Participating in smaller CTFs like Huntress and Cyber Drain.
+Regularly active on platforms like TryHackMe, HackTheBox, and CyberDefender. Participating in sesonal CTFs like Huntress and Cyber Drain.
+
