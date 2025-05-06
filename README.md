@@ -9,11 +9,11 @@ What I do now:
 
 - **IT & Security Support**
 
-Troubleshooting hardware, software, and network issues. Providing support for cloud services like Azure and Office 365. Ensuring user assistance while protecting systems.
+Troubleshooting hardware, software, and network issues. Providing support for cloud services such as Azure and Office 365 while ensuring user assistance and system protection.
 
 - **InfoSec/Incident Response Team**
 
-Working with EDR solutions and being part of an email security project. Familiar with tools like AppRiver, Mimecast, and Defender in Office 365.
+Working with EDR solutions and contributing to an email security project. Familiar with tools like AppRiver, Mimecast, and Defender in Office 365.
 
 - **Hands-On Learning**
 
