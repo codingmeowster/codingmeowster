@@ -17,7 +17,7 @@ Familiar with Endpoint Detection and Response (EDR) solutions and contributing t
 
 - **Hands-On Learning & Tinkering**
 
-Experimenting with virtual machines, restoring vintage tech, modding devices, building custom keyboards, tinkering with my 3D printer, and creating real-world scenarios in my home lab—this.
+Experimenting with virtual machines, restoring vintage tech, modding devices, building custom keyboards, tinkering with my 3D printer, and creating real-world scenarios in my home lab.
 
 - **CTFs (Capture The Flags)**
 
