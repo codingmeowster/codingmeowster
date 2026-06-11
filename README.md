@@ -1,4 +1,4 @@
-You can call my Byte ⭐
+You can call me Byte ⭐
 
 SOC Analyst | Security Researcher
 
